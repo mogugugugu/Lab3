@@ -1,0 +1,2 @@
+states : q0,q1
+alphabet : a-z, 0-9
